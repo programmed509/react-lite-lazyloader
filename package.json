@@ -1,0 +1,11 @@
+{
+  "name": "react-lite-lazyloader",
+  "version": "1.0.0",
+  "description": "HOC (based on IntersectionObserver API) for lazy loading components, images, Ads etc to improve website performance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "programmed509",
+  "license": "ISC"
+}
