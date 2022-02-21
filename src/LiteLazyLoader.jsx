@@ -5,8 +5,8 @@ const LiteLazyLoad = ({ children, startLoadingfrom, percentVisible }) => {
 
   const options = {
     root: null,
-    rootMargin: startLoadingfrom ?? "0px",
-    threshold: percentVisible,
+    rootMargin: startLoadingfrom || "0px",
+    threshold: percentVisible || 0,
   };
 
   useEffect(() => {
