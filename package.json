@@ -25,8 +25,8 @@
   "author": "programmed509",
   "license": "ISC",
   "peerDependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "babel-core": "^6.21.0",
