@@ -8,10 +8,11 @@
     "lazyload",
     "intersection observer"
   ],
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "lib/LiteLazyLoader.js",
+  "module": "lib/LiteLazyLoader.js",
   "files": [
-    "dist",
+    "lib",
+    "src",
     "README.md"
   ],
   "repository": {
